@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning JQuery
-- 📫 How to reach me: ...[Instagram.Channel](am_webdeveloper)
+- 📫 How to reach me: angelina.molchanova.alekseevna@gmail.com
 - 😄 Pronouns: ...She/Her
 
 
